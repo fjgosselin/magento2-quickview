@@ -9,7 +9,6 @@
     <module name="Script_QuickView" setup_version="1.0.1" >
         <sequence>
             <module name="Magento_Catalog"/>
-            <module name="Script_Base"/>
         </sequence>
     </module>
 </config>
